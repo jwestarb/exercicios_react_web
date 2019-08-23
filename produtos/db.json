@@ -1,0 +1,86 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Sabão em pó",
+      "categoria": "1"
+    },
+    {
+      "id": 2,
+      "produto": "Detergente",
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "produto": "Desifetante",
+      "categoria": 1
+    },
+    {
+      "id": 4,
+      "produto": "Bolacha",
+      "categoria": "2"
+    },
+    {
+      "id": 5,
+      "produto": "Arroz",
+      "categoria": 2
+    },
+    {
+      "produto": "Caneta",
+      "categoria": "3",
+      "id": 6
+    },
+    {
+      "produto": "Laranja",
+      "categoria": "4",
+      "id": 7
+    },
+    {
+      "produto": "Maça",
+      "categoria": "4",
+      "id": 8
+    },
+    {
+      "produto": "Mamão",
+      "categoria": "4",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "produto": "Feijão",
+      "categoria": "2"
+    },
+    {
+      "produto": "Pilha",
+      "categoria": "3",
+      "id": 14
+    },
+    {
+      "id": 15,
+      "produto": "Teste de produto editado",
+      "categoria": "5"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Limpeza"
+    },
+    {
+      "id": 2,
+      "categoria": "Alimentos"
+    },
+    {
+      "id": 3,
+      "categoria": "Bazar"
+    },
+    {
+      "id": 4,
+      "categoria": "Frutas e Verduras"
+    },
+    {
+      "categoria": "Teste",
+      "id": 5
+    }
+  ]
+}
